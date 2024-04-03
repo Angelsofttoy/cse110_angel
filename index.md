@@ -8,7 +8,7 @@
 
 > Kiki looking up at the sky, with her minds wandering to somewhere else.
 
-[Link to ReadMe](docs/README.md)
+[Link to ReadMe](https://github.com/Angelsofttoy/cse110_angel/blob/main/README.md)
 
 Hi! I'm _Angel(Yingjie) Ren_, I'm currently a senior with a major in Visual Arts and a minor in Computer Science. 
 
