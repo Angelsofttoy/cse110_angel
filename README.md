@@ -2,4 +2,4 @@
 
 *Favorite Programming Language:* Java
 
-***[Link to GitHub Page](https://angelsofttoy.github.io/cse110_angel/)***
+[Link to GitHub Page](https://angelsofttoy.github.io/cse110_angel)
